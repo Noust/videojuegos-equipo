@@ -1,14 +1,13 @@
-# Videojuegos - Equipo
+# Videojuegos  Equipo
 
-Videojuegos tomados de freegames (Grant Jenks) y modificados en equipo.
+Videojuego Paint tomado de freegames (Grant Jenks) y modificado en equipo.
 
-## Juegos
-1. **Paint** - `01-paint/` - dibuja formas con el mouse.
-2. (pendiente)
-3. (pendiente)
-4. (pendiente)
-5. (pendiente)
-6. (pendiente)
+## Contenido
+- `01-paint/paint.py` dibuja formas con el mouse (línea, cuadrado, círculo, rectángulo, triángulo).
+
+## Cambios realizados
+- Color amarillo nuevo y función de círculo (Noust)
+- Función de rectángulo y triángulo (Javier)
 
 ## Requisitos
 - Python 3
